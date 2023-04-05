@@ -53,8 +53,8 @@
 
 | <font color="#aa31f5">código</font> | <font color="#e0af0d">descrição</font> |
 |:------:|-----------|
-| `200` | Dados da meta foram retornados com sucesso.
-| `404` | Não há produtos cadastrados com esse identificador até o momento.
+| `200` | Dados do produto foram retornados com sucesso.
+| `404` | Não há produto cadastrado com esse identificador até o momento.
 
 #### POST 
 
@@ -319,8 +319,8 @@
 
 | <font color="#aa31f5">código</font> | <font color="#e0af0d">descrição</font> |
 |:------:|-----------|
-| `200` | Dados do produto foram retornados com sucesso.
-| `404` | Não há produtos cadastrados até o momento.
+| `200` | Dados do pedido foram retornados com sucesso.
+| `404` | Não há pedidos cadastrados até o momento.
 
 #### GET `{id_produto}`
 
@@ -356,8 +356,8 @@
 
 | <font color="#aa31f5">código</font> | <font color="#e0af0d">descrição</font> |
 |:------:|-----------|
-| `200` | Dados da meta foram retornados com sucesso.
-| `404` | Não há produtos cadastrados com esse identificador até o momento.
+| `200` | Dados do pedido foram retornados com sucesso.
+| `404` | Não há pedido cadastrado com esse identificador até o momento.
 
 #### POST 
 
@@ -392,7 +392,7 @@
 
 | <font color="#aa31f5">código</font> | <font color="#e0af0d">descrição</font> |
 |:------:|-----------|
-| `201` | Dados do produto foram cadastrados com sucesso.
+| `201` | Dados do pedido foram cadastrados com sucesso.
 | `400` | Houve uma falha no cadastro dos dados.
 
 #### PUT `{id_produto}`
@@ -400,7 +400,6 @@
 **Requer 👇**
  ```js
 {
-    "id": 1,
     "dt_pedido": "2023-04-05",
     "forma_entrega": "Serviço Aéreo Doméstico da FedEx",
     "produto": {
@@ -429,7 +428,7 @@
 
 | <font color="#aa31f5">código</font> | <font color="#e0af0d">descrição</font> |
 |:------:|-----------|
-| `200` | Dados do produto foram atualizados com sucesso.
+| `200` | Dados do pedido foram atualizados com sucesso.
 | `400` | Houve uma falha na atualização dos dados.
 
 #### DELETE `{id_produto}`
@@ -438,5 +437,5 @@
 
 | <font color="#aa31f5">código</font> | <font color="#e0af0d">descrição</font> |
 |:------:|-----------|
-| `204` | Dados do produto foram deletados com sucesso.
-| `404` | Não há um produto com esse identificador até o momento.
+| `204` | Dados do pedido foram deletados com sucesso.
+| `404` | Não há um pedido com esse identificador até o momento.
