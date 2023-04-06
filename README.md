@@ -133,7 +133,7 @@
 | `200` | Dados da categoria foram retornados com sucesso.
 | `404` | Não há categorias cadastradas até o momento.
 
-#### GET `{id_produto}`
+#### GET `{id_categoria}`
 
 **Retorna 👇**
 ```js
@@ -168,7 +168,7 @@
 | `201` | Dados da categoria foram cadastrados com sucesso.
 | `400` | Houve uma falha no cadastro dos dados.
 
-#### PUT `{id_produto}`
+#### PUT `{id_categoria}`
 
 **Requer 👇**
  ```js
@@ -185,7 +185,7 @@
 | `200` | Dados da categoria foram atualizados com sucesso.
 | `400` | Houve uma falha na atualização dos dados.
 
-#### DELETE `{id_produto}`
+#### DELETE `{id_categoria}`
 
 **Respostas 👇**
 
@@ -216,7 +216,7 @@
 | `200` | Dados do usuário foram retornados com sucesso.
 | `404` | Não há usuários cadastrados até o momento.
 
-#### GET `{id_produto}`
+#### GET `{id_usuario}`
 
 **Retorna 👇**
 ```js
@@ -255,7 +255,7 @@
 | `201` | Dados do usuário foram cadastrados com sucesso.
 | `400` | Houve uma falha no cadastro dos dados.
 
-#### PUT `{id_produto}`
+#### PUT `{id_usuario}`
 
 **Requer 👇**
  ```js
@@ -274,7 +274,7 @@
 | `200` | Dados do usuário foram atualizados com sucesso.
 | `400` | Houve uma falha na atualização dos dados.
 
-#### DELETE `{id_produto}`
+#### DELETE `{id_usuario}`
 
 **Respostas 👇**
 
@@ -322,7 +322,7 @@
 | `200` | Dados do pedido foram retornados com sucesso.
 | `404` | Não há pedidos cadastrados até o momento.
 
-#### GET `{id_produto}`
+#### GET `{id_pedido}`
 
 **Retorna 👇**
 ```js
@@ -395,7 +395,7 @@
 | `201` | Dados do pedido foram cadastrados com sucesso.
 | `400` | Houve uma falha no cadastro dos dados.
 
-#### PUT `{id_produto}`
+#### PUT `{id_pedido}`
 
 **Requer 👇**
  ```js
@@ -431,7 +431,7 @@
 | `200` | Dados do pedido foram atualizados com sucesso.
 | `400` | Houve uma falha na atualização dos dados.
 
-#### DELETE `{id_produto}`
+#### DELETE `{id_pedido}`
 
 **Respostas 👇**
 
