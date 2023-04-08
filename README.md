@@ -16,7 +16,7 @@
     "preco": 70.00,
     "descricao": "Camiseta com uma estampa do personagem Baby Yoda",
     "qtde": 120,
-    categoria: {
+    "categoria": {
         "id": 1,
         "nome": "Roupas",
         "descricao": "Roupas de todos os estilos e modelos"
@@ -41,7 +41,7 @@
     "preco": 70.00,
     "descricao": "Camiseta com uma estampa do personagem Baby Yoda",
     "qtde": 120,
-    categoria: {
+    "categoria": {
         "id": 1,
         "nome": "Roupas",
         "descricao": "Roupas de todos os estilos e modelos"
@@ -89,7 +89,7 @@
     "preco": 50.00,
     "descricao": "Camiseta com uma estampa do personagem Jar Jar Binks",
     "qtde": 120,
-    categoria: {
+    "categoria": {
         "id": 1,
         "nome": "Roupas",
         "descricao": "Roupas de todos os estilos e modelos"
@@ -297,7 +297,7 @@
         "preco": 70.00,
         "descricao": "Camiseta com uma estampa do personagem Baby Yoda",
         "qtde": 120,
-        categoria: {
+        "categoria": {
             "id": 1,
             "nome": "Roupas",
             "descricao": "Roupas de todos os estilos e modelos"
@@ -334,7 +334,7 @@
         "preco": 70.00,
         "descricao": "Camiseta com uma estampa do personagem Baby Yoda",
         "qtde": 120,
-        categoria: {
+        "categoria": {
             "id": 1,
             "nome": "Roupas",
             "descricao": "Roupas de todos os estilos e modelos"
@@ -370,7 +370,7 @@
         "preco": 70.00,
         "descricao": "Camiseta com uma estampa do personagem Baby Yoda",
         "qtde": 120,
-        categoria: {
+        "categoria": {
             "id": 1,
             "nome": "Roupas",
             "descricao": "Roupas de todos os estilos e modelos"
@@ -406,7 +406,7 @@
         "preco": 70.00,
         "descricao": "Camiseta com uma estampa do personagem Baby Yoda",
         "qtde": 120,
-        categoria: {
+        "categoria": {
             "id": 1,
             "nome": "Roupas",
             "descricao": "Roupas de todos os estilos e modelos"
