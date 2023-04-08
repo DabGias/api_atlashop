@@ -203,7 +203,6 @@
 {
     "id": 1,
     "nome": "Gabriel Dias",
-    "senha": "senha123",
     "endereco": "Rua 2, 1",
     "tel": "(11) 99999-9999"
 }
@@ -223,7 +222,6 @@
 {
     "id": 1,
     "nome": "Gabriel Dias",
-    "senha": "senha123",
     "endereco": "Rua 2, 1",
     "tel": "(11) 99999-9999"
 }
