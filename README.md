@@ -1,6 +1,6 @@
-# 🌐 Atlashop
+# 🌐 Station
 
-## API da aplicação mobile Atlashop
+## API da aplicação Station
 
 ### Endpoints 📖
 
